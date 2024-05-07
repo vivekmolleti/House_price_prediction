@@ -2,7 +2,7 @@ House Price Prediction
 
 Dataset : 
  size of data set : 74111 X 29
- https://docs.google.com/spreadsheets/d/1yW22NNiiM7_b_iZDz54NWq-nfuo_yHnA/edit?usp=drive_link&ouid=112480260997263464034&rtpof=true&sd=true
+ https://docs.google.com/spreadsheets/d/1yW22NNiiM7_b_iZDz54NWq-nfuo_yHnA/edit?usp=drive_link&ouid=112480260997263464034&rtpof=true&sd=true \n
 Taks:
 Feature Engineering
 Exploratory Data Analysis (EDA)
